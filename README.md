@@ -1,6 +1,6 @@
 # AR_dinosaurs
 
-Model rozpoznający markery (Vuforia) jest zbyt duźy dla Gita, więc tutaj wrzuciliśmy link do dysku z Zipem folderu w którym znajduje się cały projekt. Załączamy też trzy markery wykorzystane w projekcie, gotowe do użytku.
+Model rozpoznający markery (Vuforia) jest zbyt duży dla Gita, więc tutaj wrzuciliśmy link do dysku z Zipem folderu w którym znajduje się cały projekt. Załączamy też trzy markery wykorzystane w projekcie, gotowe do użytku.
 
 ## Zip link
 
